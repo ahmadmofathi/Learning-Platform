@@ -1,0 +1,14 @@
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\bin\Release\net8.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\bin\Release\net8.0\Cosmos.CRTCompat.dll
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\bin\Release\net8.0\Acedify.Web.DAL.deps.json
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\bin\Release\net8.0\Acedify.Web.DAL.dll
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\bin\Release\net8.0\Acedify.Web.DAL.pdb
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\obj\Release\net8.0\Acedify.Web.DAL.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\obj\Release\net8.0\Acedify.Web.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\obj\Release\net8.0\Acedify.Web.DAL.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\obj\Release\net8.0\Acedify.Web.DAL.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\obj\Release\net8.0\Acedify.Web.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\obj\Release\net8.0\Acedify.Web.DAL.dll
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\obj\Release\net8.0\refint\Acedify.Web.DAL.dll
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\obj\Release\net8.0\Acedify.Web.DAL.pdb
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.Web.DAL\obj\Release\net8.0\ref\Acedify.Web.DAL.dll

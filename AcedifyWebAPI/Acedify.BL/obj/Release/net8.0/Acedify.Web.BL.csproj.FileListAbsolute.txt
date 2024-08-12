@@ -1,0 +1,17 @@
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\bin\Release\net8.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\bin\Release\net8.0\Cosmos.CRTCompat.dll
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\bin\Release\net8.0\Acedify.Web.BL.deps.json
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\bin\Release\net8.0\Acedify.Web.BL.dll
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\bin\Release\net8.0\Acedify.Web.BL.pdb
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\bin\Release\net8.0\Acedify.Web.DAL.dll
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\bin\Release\net8.0\Acedify.Web.DAL.pdb
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\obj\Release\net8.0\Acedify.Web.BL.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\obj\Release\net8.0\Acedify.Web.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\obj\Release\net8.0\Acedify.Web.BL.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\obj\Release\net8.0\Acedify.Web.BL.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\obj\Release\net8.0\Acedify.Web.BL.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\obj\Release\net8.0\Acedify.Web.BL.csproj.CopyComplete
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\obj\Release\net8.0\Acedify.Web.BL.dll
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\obj\Release\net8.0\refint\Acedify.Web.BL.dll
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\obj\Release\net8.0\Acedify.Web.BL.pdb
+C:\Users\ahmad\source\repos\AcedifyWebAPI\Acedify.BL\obj\Release\net8.0\ref\Acedify.Web.BL.dll

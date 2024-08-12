@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8kNyCRfQ6y16xjAv8GSnWC2NdbW6LagXC0LWqmAGHN0=",
+  "Source": "Acedify.Web.API",
+  "BasePath": "_content/Acedify.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

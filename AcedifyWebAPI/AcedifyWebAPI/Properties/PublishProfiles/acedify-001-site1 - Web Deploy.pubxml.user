@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2024-07-25T07:22:08.9518333Z;True|2024-07-23T16:07:46.4373294+03:00;True|2024-07-23T16:01:54.8444503+03:00;True|2024-07-18T15:48:32.9762535+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8006.site4now.net%3bInitial Catalog=db_aab299_acedifydb%3bUser Id=db_aab299_acedifydb_admin%3bPassword=Acedify%40123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Acedify.Web.DAL.AppDbContext">
+      <Value>Data Source=SQL8006.site4now.net%3bInitial Catalog=db_aab299_acedifydb%3bUser Id=db_aab299_acedifydb_admin%3bPassword=Acedify%40123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
